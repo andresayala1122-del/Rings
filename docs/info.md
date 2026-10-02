@@ -9,8 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-/ When the code is executed rings of diferent colors will move inwards. /
+ When the code is executed rings of diferent colors will move inwards. 
 
 ## How to test
 
-/ Just execute the code the way it is. /
+ Just execute the code the way it is. 
