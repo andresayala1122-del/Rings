@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+When the code is executed rings of diferent colors will move inwards.
 
 ## How to test
 
-Explain how to use your project
+Just execute the code the way it is.
 
 ## External hardware
 
