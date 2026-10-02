@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  rings user_project (
+  tt_um_andresayala1122-dell_RINGS user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
